@@ -11,71 +11,69 @@
     "value": "160%",
     "type": "lineHeights"
   },
-  "Spacing": {
-    "8": {
-      "value": 8,
-      "type": "spacing"
-    },
-    "12": {
-      "value": 12,
-      "type": "spacing"
-    },
-    "16": {
-      "value": 16,
-      "type": "spacing"
-    },
-    "20": {
-      "value": 20,
-      "type": "spacing"
-    },
-    "24": {
-      "value": 24,
-      "type": "spacing"
-    },
-    "28": {
-      "value": 28,
-      "type": "spacing"
-    },
-    "32": {
-      "value": 32,
-      "type": "spacing"
-    },
-    "36": {
-      "value": 36,
-      "type": "spacing"
-    },
-    "40": {
-      "value": 40,
-      "type": "spacing"
-    },
-    "44": {
-      "value": 44,
-      "type": "spacing"
-    },
-    "48": {
-      "value": 48,
-      "type": "spacing"
-    },
-    "52": {
-      "value": 52,
-      "type": "spacing"
-    },
-    "56": {
-      "value": 56,
-      "type": "spacing"
-    },
-    "60": {
-      "value": 60,
-      "type": "spacing"
-    },
-    "64": {
-      "value": 64,
-      "type": "spacing"
-    },
-    "baseSpacing": {
-      "value": 4,
-      "type": "spacing"
-    }
+  "S8": {
+    "value": 8,
+    "type": "spacing"
+  },
+  "S12": {
+    "value": 12,
+    "type": "spacing"
+  },
+  "S16": {
+    "value": 16,
+    "type": "spacing"
+  },
+  "S20": {
+    "value": 20,
+    "type": "spacing"
+  },
+  "S24": {
+    "value": 24,
+    "type": "spacing"
+  },
+  "S28": {
+    "value": 28,
+    "type": "spacing"
+  },
+  "S32": {
+    "value": 32,
+    "type": "spacing"
+  },
+  "S36": {
+    "value": 36,
+    "type": "spacing"
+  },
+  "S40": {
+    "value": 40,
+    "type": "spacing"
+  },
+  "S44": {
+    "value": 44,
+    "type": "spacing"
+  },
+  "S48": {
+    "value": 48,
+    "type": "spacing"
+  },
+  "S52": {
+    "value": 52,
+    "type": "spacing"
+  },
+  "S56": {
+    "value": 56,
+    "type": "spacing"
+  },
+  "S60": {
+    "value": 60,
+    "type": "spacing"
+  },
+  "S64": {
+    "value": 64,
+    "type": "spacing"
+  },
+  "baseSpacing": {
+    "value": 4,
+    "type": "spacing"
   },
   "black": {
     "value": "#000000",
